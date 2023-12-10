@@ -1,13 +1,6 @@
-<div align="left" style="display:flex;">
-          
-  <img src="https://avatars.githubusercontent.com/u/51114513?v=4" alt="Image Description" width="200" height="200">
-<span font-size="40px" style="text-align: right; margin-right: 20px; align:center;">
-            Mohammad Afroz Alam  
-          </span>
-  
-</div>
+# <img src="https://avatars.githubusercontent.com/u/51114513?v=4" alt="Image Description" width="50" height="50"> Mohammad Afroz Alam
 
-# 👋 Hello, I'm Afroz Alam - Software Developer, Innovator
+### 👋 Hello, I'm Afroz Alam - Software Developer, Innovator
 
 
 ## 🔧 Technologies & Tools
