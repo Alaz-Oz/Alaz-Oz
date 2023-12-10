@@ -1,4 +1,4 @@
-# <img src="https://avatars.githubusercontent.com/u/51114513?v=4" alt="Image Description" width="50" height="50"> Mohammad Afroz Alam
+# <img src="https://avatars.githubusercontent.com/u/51114513?v=4" alt="Image Description" width="50" height="50"> Md Afroz Alam
 
 ### 👋 Hello, I'm Afroz Alam - Software Developer, Innovator
 
