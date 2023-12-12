@@ -1,6 +1,7 @@
-# <img src="https://avatars.githubusercontent.com/u/51114513?v=4" alt="Image Description" width="50" height="50"> Md Afroz Alam
+![Banner](/assets/banner/banner.png)
 
-### 👋 Hello, I'm Afroz Alam - Software Developer, Innovator
+# <img src="https://avatars.githubusercontent.com/u/51114513?v=4" alt="Image Description" width="50" height="50"> Afroz Alam - Software Developer, Innovator
+
 
 
 ## 🔧 Technologies & Tools
