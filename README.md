@@ -1,8 +1,17 @@
 ![Banner](/assets/banner/banner.png)
+<div align="center">
+  <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&color=%23fff0f0">
+  <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua&logoColor=%232C2D72&color=white">
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&color=white">
+  <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&color=gray">
+  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=%231572B6&color=%23fff0ff">
+  <img src="https://img.shields.io/badge/C--lang-black?style=for-the-badge&logo=c&color=%23fff0ff">
+  <img src="https://img.shields.io/badge/Go--lang-black?style=for-the-badge&logo=go&color=%23fff0f0">
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&color=%23f0f0f0">
+  <img src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&color=%23f0f0ff">
+</div>
 
-# <img src="https://avatars.githubusercontent.com/u/51114513?v=4" alt="Image Description" width="50" height="50"> Afroz Alam - Software Developer, Innovator
-
-
+# <img src="https://avatars.githubusercontent.com/u/51114513?v=4" alt="Afroz Alam" width="50" height="50"> Afroz Alam - Software Developer, Innovator
 
 ## 🔧 Technologies & Tools
 
