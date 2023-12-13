@@ -25,6 +25,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaz-Oz&layout=compact)
 
 ## 🌐 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/Alaz-Oz/) - Connect with me on LinkedIn.
-
 Explore my repositories, and feel free to reach out for collaborations or if you have any questions. Let's build something amazing together! 🚀
+
+![Instagram](https://img.shields.io/badge/Instagram-%40Alaz.Oz-blue?logo=instagram&labelColor=white&color=%23E4405F)
+![Youtube](https://img.shields.io/badge/Youtube-%40Alaz--Oz-blue?logo=youtube&logoColor=%23FF0000&labelColor=white&color=%23FF0000)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaz--Oz-blue?logo=linkedin&logoColor=%230A66C2&labelColor=white&color=%230A66C2)
