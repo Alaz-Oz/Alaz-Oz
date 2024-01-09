@@ -33,6 +33,8 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alaz-Oz&show_icons=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaz-Oz&layout=compact)
 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alaz-Oz" alt="Alaz-Oz" /></a>
+
 ## 🌐 Let's Connect
 Explore my repositories, and feel free to reach out for collaborations or if you have any questions. Let's build something amazing together! 🚀
 
