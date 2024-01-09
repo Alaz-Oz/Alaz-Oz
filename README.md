@@ -24,9 +24,9 @@
 
 ## 🚀 Featured Projects
 
-1. [**Verlet Model**](https://github.com/Alaz-Oz/VerletModel) - A project demonstrating verlet physics.
-2. [**Fish Insulter**](https://github.com/Alaz-Oz/fish-insulter) - A script that puts humour on the terminal when you type incorrect command.
-3. [**TypeSpeed**](https://github.com/Alaz-Oz/TypeSpeed) - An android app that measures the typing speed.
+1. [**Verlet Model**](https://github.com/Alaz-Oz/VerletModel) - A project Demonstrating verlet physics.
+2. [**Fish Insulter**](https://github.com/Alaz-Oz/fish-insulter) - Terminal script adding humor for incorrect commands.
+3. [**TypeSpeed**](https://github.com/Alaz-Oz/TypeSpeed) - An Android app that measures the typing speed.
 
 ## 📊 GitHub Stats
 
