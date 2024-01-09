@@ -1,15 +1,6 @@
 ![Banner](/assets/banner/banner.png)
-<div align="center">
-  <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&color=%23fff0f0">
-  <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua&logoColor=%232C2D72&color=white">
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&color=white">
-  <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&color=gray">
-  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=%231572B6&color=%23fff0ff">
-  <img src="https://img.shields.io/badge/C--lang-black?style=for-the-badge&logo=c&color=%23fff0ff">
-  <img src="https://img.shields.io/badge/Go--lang-black?style=for-the-badge&logo=go&color=%23fff0f0">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&color=%23f0f0f0">
-  <img src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&color=%23f0f0ff">
-</div>
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Alaz-Oz&column=-1&margin-w=10&margin-h=10&theme=oldie" alt="Alaz-Oz" /></p>
 
 # <img src="https://avatars.githubusercontent.com/u/51114513?v=4" alt="Afroz Alam" width="50" height="50"> Afroz Alam - Software Developer, Innovator
 
@@ -30,10 +21,20 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&color=%23fff0f0">
+  <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua&logoColor=%232C2D72&color=white">
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&color=white">
+  <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&color=gray">
+  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=%231572B6&color=%23fff0ff">
+  <img src="https://img.shields.io/badge/C--lang-black?style=for-the-badge&logo=c&color=%23fff0ff">
+  <img src="https://img.shields.io/badge/Go--lang-black?style=for-the-badge&logo=go&color=%23fff0f0">
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&color=%23f0f0f0">
+  <img src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&color=%23f0f0ff">
+</div>
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alaz-Oz&show_icons=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaz-Oz&layout=compact)
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alaz-Oz" alt="Alaz-Oz" /></a>
 
 ## 🌐 Let's Connect
 Explore my repositories, and feel free to reach out for collaborations or if you have any questions. Let's build something amazing together! 🚀
