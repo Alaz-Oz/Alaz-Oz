@@ -1,8 +1,17 @@
-![Banner](/assets/banner/banner.png)
-
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Alaz-Oz&column=-1&margin-w=10&margin-h=10&theme=oldie" alt="Alaz-Oz" /></p>
 
-# <img src="https://avatars.githubusercontent.com/u/51114513?v=4" alt="Afroz Alam" width="50" height="50"> Afroz Alam - Software Developer, Innovator
+<h1 align="center">Hi 👋, I'm Afroz Alam</h1>
+<h3 align="center">A passionate Software Developer and Innovator</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Alaz-Oz&label=Profile%20views&color=green&style=flat" alt="Alaz-Oz" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/4328391/media/b2db9aa4c73cc2cc425fe8e4387631cc.png">
+
+## 🚀 Featured Projects
+
+1. [**Verlet Model**](https://github.com/Alaz-Oz/VerletModel) - A project Demonstrating verlet physics.
+2. [**Fish Insulter**](https://github.com/Alaz-Oz/fish-insulter) - Terminal script adding humor for incorrect commands.
+3. [**TypeSpeed**](https://github.com/Alaz-Oz/TypeSpeed) - An Android app that measures the typing speed.
+
 
 ## 🔧 Technologies & Tools
 
@@ -13,11 +22,6 @@
 - **Editor & IDE (Nvim, IntelliJ Idea, Android Studio, Xcode, VScode)**
 - **Linux Enthusiast**
 
-## 🚀 Featured Projects
-
-1. [**Verlet Model**](https://github.com/Alaz-Oz/VerletModel) - A project Demonstrating verlet physics.
-2. [**Fish Insulter**](https://github.com/Alaz-Oz/fish-insulter) - Terminal script adding humor for incorrect commands.
-3. [**TypeSpeed**](https://github.com/Alaz-Oz/TypeSpeed) - An Android app that measures the typing speed.
 
 ## 📊 GitHub Stats
 
@@ -32,13 +36,14 @@
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&color=%23f0f0f0">
   <img src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&color=%23f0f0ff">
 </div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Alaz-Oz&show_icons=true&hide=prs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaz-Oz&layout=compact">
+</div>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alaz-Oz&show_icons=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaz-Oz&layout=compact)
-
-## 🌐 Let's Connect
-Explore my repositories, and feel free to reach out for collaborations or if you have any questions. Let's build something amazing together! 🚀
-
-![Instagram](https://img.shields.io/badge/Instagram-%40Alaz.Oz-blue?logo=instagram&labelColor=white&color=%23E4405F)
-![Youtube](https://img.shields.io/badge/Youtube-%40Alaz--Oz-blue?logo=youtube&logoColor=%23FF0000&labelColor=white&color=%23FF0000)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaz--Oz-blue?logo=linkedin&logoColor=%230A66C2&labelColor=white&color=%230A66C2)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/Alaz-Oz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alaz-Oz" height="30" width="40" /></a>
+<a href="https://instagram.com/Alaz.Oz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Alaz.Oz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Alaz-Oz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Alaz-Oz" height="30" width="40" /></a>
+</p>
