@@ -28,8 +28,9 @@ corner of my mind if it's not clean. So this is a `standard` or call it a `check
 ## Workflow Steps (Standard for Every Project)
 
 1. **Trigger Events**
-   - Push to main branch (build, tests)
-   - Manual dispatch (releases)
+   - Pull Request to main branch (build, tests)
+   - Release `v*` tags (Release)
+   - Manual dispatch (test build)
 
 2. **Testing/Building**
    - Run unit/integration tests
