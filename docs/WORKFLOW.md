@@ -45,3 +45,57 @@ corner of my mind if it's not clean. So this is a `standard` or call it a `check
 
 4. **Release/Publish (Optional)**
    - Upload built artifacts to GitHub release or other target
+  
+## Workflow jobs template
+
+```yml
+name: Build and Release
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  check_version:
+    outputs:
+      version: ${{ steps.version.outputs.version }}
+      tag_exists: ${{ steps.check_tag.outputs.tag_exists }}
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Extract version
+        id: version
+
+      - name: Check if tag exists
+        id: check_tag
+
+  build:
+    needs: check_version
+    if: ${{ needs.check_version.outputs.tag_exists == 'false' || github.event_name == 'pull_request' || github.event_name == 'workflow_dispatch' }}
+
+    steps:
+      - name: Checkout repo
+
+      - name: Install Dependencies
+
+      - name: Build
+
+      - name: Upload Artifacts
+
+  release:
+    needs: [check_version, build]
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main' && needs.check_version.outputs.tag_exists == 'false'
+
+    steps:
+      - name: Download all artifacts
+
+      - name: Create Draft Release
+
+```
+
